@@ -1,6 +1,7 @@
 # Hello im JustAP1ayer, Welcome to my profile.
 ![JustAP1ayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustAP1ayer&show_icons=true&theme=tokyonight)
 ## [![Languages I use](https://github-readme-stats.vercel.app/api/top-langs/?username=JustAP1ayer&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![JustAP1ayer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JustAP1ayer&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--

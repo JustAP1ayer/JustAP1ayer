@@ -1,5 +1,7 @@
+# Hello im JustAP1ayer, Welcome to my profile.
 ![JustAP1ayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustAP1ayer&show_icons=true&theme=tokyonight)
-### [![Languages I use](https://github-readme-stats.vercel.app/api/top-langs/?username=JustAP1ayer)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=JustAP1ayer&show_icons=true&theme=tokyonight))
+## [![Languages I use](https://github-readme-stats.vercel.app/api/top-langs/?username=JustAP1ayer&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **JustAP1ayer/JustAP1ayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

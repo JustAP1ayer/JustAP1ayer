@@ -1,4 +1,4 @@
-![JustAP1ayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![JustAP1ayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustAP1ayer&show_icons=true&theme=tokyonight)
 ### [![JustAP1ayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustAP1ayer)](https://github.com/anuraghazra/github-readme-stats)
 ### [![Languages I use](https://github-readme-stats.vercel.app/api/top-langs/?username=JustAP1ayer)](https://github.com/anuraghazra/github-readme-stats)
 
